@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>RECURSOS_</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>8080FF</corfondo>
+        <corbanda>8080FF</corbanda>
+        <cornavega>8080FF</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>EXPRESION PLASTICA Y VISUAL</titulo>
+        <subtitulo>LOS POLIGONOS</subtitulo>
+        <autor>DELIA MANZONI AQUINO</autor>
+        <iden>DELIA</iden>
+        <logo>logotipo.jpeg</logo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >LO LOGRASTE</correcto>
+        <incorrecto son="" modo="1" >UPS</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>4</tipo>
+              <cabeceira>ENCUENTRA LAS SIGUIENTES FIGURAS GEOMETRICAS</cabeceira>
+              <modo>1</modo>
+              <sopa enun="FIGURA GEOMETRICA DE SEIS LADOS ">EXAGONO</sopa>
+              <sopa enun="FIGURA GEOMETRICA DE CINCO LADOS">PENTAGONO</sopa>
+              <sopa enun="FIGURA GEOMETRICA DE SIETE LADOS">HEPTAGONO</sopa>
+              <sopa enun="FIGURA GEOMETRICA DE TRES LADOS">TRIANGULO</sopa>
+              <sopa enun="FIGURA GEOMETRICA DE OCHO LADOS">OCTAGONO</sopa>
+              <sopa enun="FIGURA GEOMETRICA DE DIEZ LADOS">DECAGONO</sopa>
+              <sopa enun="FIGURA GEOMETRICA DE NUEVE LADOS">ENEAGONO</sopa>
+              <sopa enun="FIGURA GEOMETRICA DE CUATRO LADOS">CUADRADO</sopa>
+              <enunciado>1</enunciado>
+              <colorea>1</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="2" >
+              <tipo>10</tipo>
+              <cabeceira>RESPONDA LAS SIGUIENTES PREGUNTAS</cabeceira>
+              <imaxe>pentagono.jpeg</imaxe>
+              <pregunta res="ES UNA FIGURA GEOMETRICA CERRADA ">¿QUE ES UN POLIGIONO?</pregunta>
+              <pregunta res="VERTICE, RADIO, LADO Y APOTEMA">¿INDICA LAS PARTES DE UN POLIGINO?</pregunta>
+              <pregunta res="SON AQUELLOS QUE TIENE SUS LADOS Y ANGULOS IGUALES  ">¿A QUE LLAMAMOS A UN POLIGONOS REGULARES?</pregunta>
+              <pregunta res="SON AQUELLOS QUE NO TIENE SUS LADOS Y ANGULOS IGUALES">¿A QUE LLAMAMOS A UN POLIGONOS IRREGULARES?</pregunta>
+        </paxina>
+        <paxina id="3" >
+              <tipo>47</tipo>
+              <caixa1>REGULARES ,IRREGULARES</caixa1>
+              <nome caixa="1">CUADRADO</nome>
+              <nome caixa="2">CUADRILATERO</nome>
+              <nome caixa="1">TRIANGULO</nome>
+              <nome caixa="1">HEXAGONO</nome>
+              <nome caixa="1">REGTANGULO</nome>
+              <nome caixa="2">TRAPEZOIDE</nome>
+        </paxina>
+        <paxina id="4" >
+              <tipo>11</tipo>
+              <cabeceira>IDENTIFICAR LOS NOMBRES DE LAS FIGURAS GEOMETRICAS</cabeceira>
+              <pe>ARRASTRA EL TEXTO CORRESPONDIENTE A CADA IMAGEN</pe>
+              <modo>3</modo>
+              <cousa nome="FIGURA DE TRES LADOS ">triangulo.jpeg</cousa>
+              <cousa nome="FIGURA DE SEIS LADOS ">heptagono.jpeg</cousa>
+              <cousa nome="FIGURA DE SIETE LADOS ">pentagono.jpeg</cousa>
+              <cousa nome="FIGURA DE CINCO LADOS ">pentagono1.jpeg</cousa>
+              <cousa nome="FIGURA DE CUATRO LADOS ">cuadrado.jpeg</cousa>
+        </paxina>
+        <paxina id="5" >
+              <tipo>1</tipo>
+              <cabeceira>SELECCIONE  LA RESPUESTA CORRECTA</cabeceira>
+              <pe>ELIGE LA  RESPUESTA CORRECTA</pe>
+              <imaxe>heptagono.jpeg</imaxe>
+              <texto>¿UN POLIGONO ES?</texto>
+              <resp texto="" valor="0">UNA FIGURA GEOMETRICA ABIERTA</resp>
+              <resp texto="" valor="1">UNA FIGURA GEOMETRICA CERRADA</resp>
+              <resp texto="" valor="0">ES UNA FIGURA LLAMADA LINEA</resp>
+              <resp texto="" valor="0">ES UNA FIGURA CIRCULAR</resp>
+        </paxina>
+        <paxina id="6" >
+              <tipo>2</tipo>
+              <cabeceira>PARTES DE UN POLIGONO</cabeceira>
+              <pe>LEE CON MUCHA ATENCION</pe>
+              <imaxe posx="0" posy="-114">PARTES_DEL_POLIGONO.jpeg</imaxe>
+              <texto posx="50" posy="50" ancho="200" largo="200"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="12"> ELEMENTOS DE UN POLIGONO <br>
+<br>
+Los elementos de un poligono son: radio, diagonal, vertice, lado, centro, apotema y angulo </font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="7" >
+              <tipo>35</tipo>
+              <cabeceira>ORDENE LAS SIGUINETES FIGURAS</cabeceira>
+              <pe>ORDENAR DE ACUENRDO AL NUMERO DE LADOS</pe>
+              <forma>1</forma>
+              <completa>triangulo.jpeg</completa>
+              <completa>cuadrado.jpeg</completa>
+              <completa>pentagono1.jpeg</completa>
+              <completa>pentagono.jpeg</completa>
+              <completa>heptagono.jpeg</completa>
+        </paxina>
+    </libro>
+</lim>
